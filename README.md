@@ -1,4 +1,4 @@
-- 🦧  Hi, I’m @Jaisthings
+- 🦧  Hi there, I’m @Jaisthings
 - 🐼  I’m interested in programming, software architecture
 
 
