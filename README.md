@@ -1,6 +1,3 @@
-- 🦧  Hi there, I’m @Jaisthings
-- 🐼  I’m interested in programming, software architecture
-
 
 <!---
 Jaisthings/Jaisthings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
